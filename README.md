@@ -11,7 +11,7 @@ A simple colorful sticky notes app
 html, css, bootstrap and vannila Js
 
 ## Demo
-You can see live demo [here](https://noteswall.now.sh/).
+You can see live demo [here](.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
